@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1579332529 source:c:\users\hp\desktop\shopping\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string.h>
+
